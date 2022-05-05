@@ -91,7 +91,7 @@ p {
   color: #fff;
   cursor: pointer;
 }
-@media (min-width: 500px) {
+@media (min-width: 481px) {
   #login-form {
     width: 400px;
     font-size: 1.5em;
